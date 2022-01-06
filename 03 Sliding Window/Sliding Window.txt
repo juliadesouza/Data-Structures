@@ -1,0 +1,12 @@
+Sliding Window Problems
+- It's useful for solving problem in arrau and string, specially 
+it's considered as technique that could reduco time complexity 
+from O(nˆ2) to O(n)
+- In this case, you have contract from one side and expand from 
+the other side (like a sliding window).
+- Types:
+    - Fixed window length: the length of the window is fixed and it's 
+    asks you to find something in the window.
+    - Two Pointers + Criteria: the window size is not fixed, usually It
+    asks you to find the subarray that meets the criteria.
+    homework: final da aula 44. housing

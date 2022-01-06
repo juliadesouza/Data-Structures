@@ -1,0 +1,11 @@
+ARRAYS 
+- Is a collection of elements of the same type place in continuous memory location.
+
+
+VECTORS
+- Is a dynamic array 
+- Are a sequence containers representing arrays that can change in size
+- They use ocntinuous storage location for their elements.
+- Their elements can be acessed directly in O(1)
+- Vectors are passed by value to a funcion (copy) you may can still pass them by reference if need arises
+- It doubles de memory size
