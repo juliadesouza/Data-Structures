@@ -2,6 +2,7 @@
 // 01 - Divide the array in two parts
 // 02 - Recursively sort both parts (left and right)
 // 03 - Merge them into a single sorted array
+// O(nlogn)
 
 #include <iostream>
 #include <vector>
