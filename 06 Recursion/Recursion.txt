@@ -1,0 +1,31 @@
+Recursion
+- Recursion is the process of defining a problem (or the solution 
+to a problem) in terms of (a simpler version of) itself.
+- It forms a tree structure.
+- To solve recursion problem, do:
+    1. Figure of the smallest case.
+    2. Always assume the subproblem can be solved.
+    3. Solve the current problem assuming subproblem solution exists.
+- Example: we can define the operation "Go to home" as:
+    Base Case 
+        1. If you are at home, stop moving.
+    Recursive Case
+        2. Take one step toward home.
+        3. "Go to home".
+
+// a simple recursive function
+    void goHome(x, home){
+        if(x==home){
+            print("Reached home");
+            return;
+        }
+
+        x = x+1;
+        goHome(x, home);
+    }
+
+// main
+    int x = 1;
+    int home = 10;
+    goHome(x,home);
+
