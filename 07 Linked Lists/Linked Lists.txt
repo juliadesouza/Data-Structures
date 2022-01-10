@@ -12,3 +12,4 @@ places of the memory and are linked/connected by pointers.
 - Node <T>:
     * data: type
     * next: node
+- Runner technique:
