@@ -1,0 +1,14 @@
+Linked Lists
+- It's a collection of elements that are stored in differents
+places of the memory and are linked/connected by pointers.
+- It allows dynamically allocation
+- Basic operations
+    * insertion
+    * searching
+    * deletion
+    * creating a linked list 
+    * deleting a linked list 
+    * printing a linked list
+- Node <T>:
+    * data: type
+    * next: node
