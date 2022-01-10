@@ -1,0 +1,17 @@
+Stack Recap
+- Lifo: last in, first out
+    - Push: O(1)
+    - Pop: O(1)
+    - Top: O(1) 
+
+Queue
+- Fifo: first in, first out
+    - Push: O(1)
+    - Pop: O(1)
+    - Front: O(1) 
+
+Deque
+It allows insertions in both parts (front and back)
+- push_back and pop_back
+- push_front and pop_front
+- front and back
