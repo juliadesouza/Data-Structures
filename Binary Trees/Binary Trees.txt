@@ -1,0 +1,7 @@
+Binary Trees
+- It's hiearchical data structure 
+- Each node has at-most two pointers for its children (left and right) 
+- Height of the tree denotes the number of levels
+- Tree problems follow a recursive structure.
+- Mostly all problems can be solved ny dividing the problem into 
+subproblems and making recursive calls on subtrees or iteratively
