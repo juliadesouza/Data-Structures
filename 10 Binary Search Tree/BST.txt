@@ -1,0 +1,6 @@
+- Its a binary tree, but it has some properties:
+    * Every subtree should also be a bst.
+    * Every node in the left must be <= root
+    * Every node in the right must be >= root
+- Inorder Traversal: left, root, right --> it`s always sorted
+- Advantage: O(h)
