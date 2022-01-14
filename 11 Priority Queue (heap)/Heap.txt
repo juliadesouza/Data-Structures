@@ -1,0 +1,16 @@
+- Heap its a binary where all the levels are completed
+filled except last level.
+- There are two types of heaps:
+    * Max Heap: every node must be greater than its children.
+    * Min Heap: every node must be less than its children.
+- Push: O(logN)
+- Pop Min / Pop Max: O(logN)
+- Get Min / Get Max: O(1)
+- Building a heap tales O(n) time
+- HeapSort takes O(nlogn) time
+- Getting the minimun element from the heap takes O(1) time
+- Height of the Heap containing n element is always O(logN)
+- In a binary max heap containing N integers, the smallest element can be found in O(n)
+- Heap Sort's memory usage is minimal
+- The Heap sort algorithm is extremely efficient
+- The Heap sort algorithm exhibits consistent performance
