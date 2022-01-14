@@ -1,0 +1,12 @@
+Important data structure for pattern matching problems.
+Prefix Trie
+- Generic tree like data stricture
+- Efficient information retrieval data structure
+- Searches in optimal time O(key length) but uses extra storage.
+- Important operations:
+    * insert
+    * Search
+- It storages commong prefixes in the same "branch"
+Sample Problem - given a list of strings and Q queries, 
+each query containing a word, you have to tell whether 
+the word is contained in the list or not.
