@@ -2,6 +2,8 @@
 // going to divide your array) - last element
 // 02 - partition your array into two parts
 // 03 - Recusively sort the left and right part of the array
+// Quicksort still uses recursion, which takes stack memory. Hence space complexity is not O(1).
+// Quicksort is unstable sorting algorithm.
 
 // best: O(nlogn)
 // worst: O(nˆ2)

@@ -8,9 +8,10 @@ filled except last level.
 - Get Min / Get Max: O(1)
 - Building a heap tales O(n) time
 - HeapSort takes O(nlogn) time
-- Getting the minimun element from the heap takes O(1) time
+- Getting the minimun element from the heap takes O(1) time (in min heap)
 - Height of the Heap containing n element is always O(logN)
 - In a binary max heap containing N integers, the smallest element can be found in O(n)
 - Heap Sort's memory usage is minimal
 - The Heap sort algorithm is extremely efficient
 - The Heap sort algorithm exhibits consistent performance
+- In a max heap, the smallest element is always present at a leaf node. So we need to check for all leaf nodes for the minimum value. Worst case complexity will be O(n)

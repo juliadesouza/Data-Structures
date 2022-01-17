@@ -1,0 +1,9 @@
+- Space complexity of simple binary search algorithms 
+depends upon the implementation is recursive O(LogN) 
+or iterative O(1).
+- Ternary Search does more comparisons than Binary Search 
+in worst case.
+- Binary search is a divide and conquer algorithm: We divide 
+the problem into smaller problem, hence its D&C.
+- Binary Search is applied on Monotonic Searchspaces, 
+not just arrays.
